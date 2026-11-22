@@ -1,19 +1,19 @@
 {
- "version": "0.2.19",
- "package": "halichot-0.2.19.zip",
+ "version": "0.2.20",
+ "package": "halichot-0.2.20.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.19/halichot-0.2.19.zip.part01",
-   "sha256": "6e1d570c39854339db9f2f9781e5dfb38b0faec98439a706625772dc43fb319c"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.20/halichot-0.2.20.zip.part01",
+   "sha256": "1a6597d4f86266b0ebce80d0c4cea89036c56edbcc5b0d89d6308879ad422a5e"
   }
  ],
- "sha256": "6e1d570c39854339db9f2f9781e5dfb38b0faec98439a706625772dc43fb319c",
+ "sha256": "1a6597d4f86266b0ebce80d0c4cea89036c56edbcc5b0d89d6308879ad422a5e",
  "targets": [
   "*"
  ],
- "notes": "מסך החודש מסודר יותר: ארבעת השלבים בסרגל הצד עם המצב של כל שלב, ופס כלים אחד בראש כל שלב (ההסבר ב-ⓘ). חלונית המורה נעולה לקריאה עד לחיצה על עריכה. מורה שמופיעה פעמיים בקובץ הייבוא מאוחדת ומוצגת בטבלה ברורה. הודעות אחרי פעולות מוצגות כטבלה",
+ "notes": "מסך החודש במסך אחד: ארבע קוביות שלבים למעלה עם אייקונים (הסבר בריחוף), ורשימת המורות עם החלונית לכל הגובה. אייקוני קו נקיים בכל הכלי. הודעת גרסה חדשה רק בתחתית הסרגל, בקצרה",
  "auto": true,
- "published": "2026-11-22 17:50",
+ "published": "2026-11-22 18:34",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
