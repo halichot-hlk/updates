@@ -1,19 +1,19 @@
 {
- "version": "0.2.20",
- "package": "halichot-0.2.20.zip",
+ "version": "0.2.21",
+ "package": "halichot-0.2.21.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.20/halichot-0.2.20.zip.part01",
-   "sha256": "1a6597d4f86266b0ebce80d0c4cea89036c56edbcc5b0d89d6308879ad422a5e"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.21/halichot-0.2.21.zip.part01",
+   "sha256": "109ab225485aab9d8027d59ae5aa8febf0996ee4fb31c6b41253259d6c4f1bc9"
   }
  ],
- "sha256": "1a6597d4f86266b0ebce80d0c4cea89036c56edbcc5b0d89d6308879ad422a5e",
+ "sha256": "109ab225485aab9d8027d59ae5aa8febf0996ee4fb31c6b41253259d6c4f1bc9",
  "targets": [
   "*"
  ],
- "notes": "מסך החודש במסך אחד: ארבע קוביות שלבים למעלה עם אייקונים (הסבר בריחוף), ורשימת המורות עם החלונית לכל הגובה. אייקוני קו נקיים בכל הכלי. הודעת גרסה חדשה רק בתחתית הסרגל, בקצרה",
+ "notes": "מסך החודש: חיפוש מורה צמוד לסינון, וקוביות השלבים עם כפתורים קטנים של אייקון ומילה. מסך החודש מנצל את כל רוחב המסך",
  "auto": true,
- "published": "2026-11-22 18:34",
+ "published": "2026-11-22 18:42",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
