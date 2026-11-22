@@ -1,19 +1,19 @@
 {
- "version": "0.2.18",
- "package": "halichot-0.2.18.zip",
+ "version": "0.2.19",
+ "package": "halichot-0.2.19.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.18/halichot-0.2.18.zip.part01",
-   "sha256": "202abbf184cc7bea4449a8d2e9369a54c320fc2e8fd6c3effd3178657e465f0f"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.19/halichot-0.2.19.zip.part01",
+   "sha256": "6e1d570c39854339db9f2f9781e5dfb38b0faec98439a706625772dc43fb319c"
   }
  ],
- "sha256": "202abbf184cc7bea4449a8d2e9369a54c320fc2e8fd6c3effd3178657e465f0f",
+ "sha256": "6e1d570c39854339db9f2f9781e5dfb38b0faec98439a706625772dc43fb319c",
  "targets": [
   "*"
  ],
- "notes": "מסך מורות מפוצל: פרטים לקריאה בלבד ועריכה בלחיצה. יומן פעילות – מה נעשה, מתי ומי. חלון אישור מעוצב של הכלי, הודעות שנעלמות לבד, וכפתור חזרה אחיד בראש כל מסך. גרסה חדשה זמינה מופיעה בתחתית הסרגל. הסבר ברור כש-Outlook הקלאסי לא מחובר",
+ "notes": "מסך החודש מסודר יותר: ארבעת השלבים בסרגל הצד עם המצב של כל שלב, ופס כלים אחד בראש כל שלב (ההסבר ב-ⓘ). חלונית המורה נעולה לקריאה עד לחיצה על עריכה. מורה שמופיעה פעמיים בקובץ הייבוא מאוחדת ומוצגת בטבלה ברורה. הודעות אחרי פעולות מוצגות כטבלה",
  "auto": true,
- "published": "2026-11-22 17:21",
+ "published": "2026-11-22 17:50",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
