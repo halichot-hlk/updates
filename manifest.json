@@ -1,0 +1,20 @@
+{
+ "version": "0.2.9",
+ "package": "halichot-0.2.9.zip",
+ "parts": [
+  {
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.9/halichot-0.2.9.zip.part01",
+   "sha256": "1cafcf354da11b839b9278202f837524aa52e21eb0ed9824b854081bae015d97"
+  }
+ ],
+ "sha256": "1cafcf354da11b839b9278202f837524aa52e21eb0ed9824b854081bae015d97",
+ "targets": [
+  "*"
+ ],
+ "notes": "הכלי נפתח בלי החלון השחור. לסגירה: כפתור סגירת הכלי בתחתית התפריט",
+ "auto": true,
+ "published": "2026-11-22 12:51",
+ "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
+ "wheels": true,
+ "update_guard": true
+}
