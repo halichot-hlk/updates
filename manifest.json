@@ -1,20 +1,19 @@
 {
- "version": "0.2.13",
- "package": "halichot-0.2.13.zip",
+ "version": "0.2.14",
+ "package": "halichot-0.2.14.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.13/halichot-0.2.13.zip.part01",
-   "sha256": "c4b069b4240f6649d9dda1be8ea0ef86e1930c630820274c7582fb3ad9b72dcb"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.14/halichot-0.2.14.zip.part01",
+   "sha256": "bc3f1a451b8b2a88bc19426031998eb66f7b41babc0322ec8ca21a92bbdfb970"
   }
  ],
- "sha256": "c4b069b4240f6649d9dda1be8ea0ef86e1930c630820274c7582fb3ad9b72dcb",
+ "sha256": "bc3f1a451b8b2a88bc19426031998eb66f7b41babc0322ec8ca21a92bbdfb970",
  "targets": [
   "*"
  ],
- "notes": "ייבוא מורות מכל סוג קובץ: xlsx, xls (גם קובץ שמערכת אחרת ייצאה), CSV וטקסט. ברירת מחדל: מורה לא זכאית לשעת בטלה עד שמסמנים. בדיקת עדכונים מוצאת גרסה חדשה גם מיד אחרי פרסום",
+ "notes": "עריכת מורה בחלון קופץ מעל הרשימה. כפתורי סגור ועדכון ומספר הגרסה בתחתית הסרגל, והודעת העדכון שם. ביטול הייבוא האחרון בראש טבלת המורות. באשף הייבוא: כפתורי האישור קבועים בתחתית, ושורות שלא ייובאו מקובצות לפי סיבה",
  "auto": true,
- "published": "2026-11-22 14:15",
+ "published": "2026-11-22 14:37",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
- "wheels": false,
- "update_guard": true
+ "wheels": false
 }
