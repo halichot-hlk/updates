@@ -1,19 +1,20 @@
 {
- "version": "0.2.12",
- "package": "halichot-0.2.12.zip",
+ "version": "0.2.13",
+ "package": "halichot-0.2.13.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.12/halichot-0.2.12.zip.part01",
-   "sha256": "d005e0fa9e1dd7b924e90493a65589b004f81fd9c41dccacb58ca3dc07bc999e"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.13/halichot-0.2.13.zip.part01",
+   "sha256": "c4b069b4240f6649d9dda1be8ea0ef86e1930c630820274c7582fb3ad9b72dcb"
   }
  ],
- "sha256": "d005e0fa9e1dd7b924e90493a65589b004f81fd9c41dccacb58ca3dc07bc999e",
+ "sha256": "c4b069b4240f6649d9dda1be8ea0ef86e1930c630820274c7582fb3ad9b72dcb",
  "targets": [
   "*"
  ],
- "notes": "ייבוא מורות: עמודת תעריף לשעת בטלה קובעת זכאות (התעריף לא נשמר), קובץ עם ת״ז ועמודה נוספת מעדכן מורות קיימות, וכפתור לביטול הייבוא האחרון",
+ "notes": "ייבוא מורות מכל סוג קובץ: xlsx, xls (גם קובץ שמערכת אחרת ייצאה), CSV וטקסט. ברירת מחדל: מורה לא זכאית לשעת בטלה עד שמסמנים. בדיקת עדכונים מוצאת גרסה חדשה גם מיד אחרי פרסום",
  "auto": true,
- "published": "2026-11-22 13:55",
+ "published": "2026-11-22 14:15",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
- "wheels": false
+ "wheels": false,
+ "update_guard": true
 }
