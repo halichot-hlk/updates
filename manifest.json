@@ -1,19 +1,19 @@
 {
- "version": "0.2.15",
- "package": "halichot-0.2.15.zip",
+ "version": "0.2.16",
+ "package": "halichot-0.2.16.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.15/halichot-0.2.15.zip.part01",
-   "sha256": "bfb6839dc9940af9ef31c94c90955d730d2f59e78d35dae996af8479404b5125"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.16/halichot-0.2.16.zip.part01",
+   "sha256": "949557310e28abb7f10fdf2b086fbbfc124289df49f415ccc751f537961f8450"
   }
  ],
- "sha256": "bfb6839dc9940af9ef31c94c90955d730d2f59e78d35dae996af8479404b5125",
+ "sha256": "949557310e28abb7f10fdf2b086fbbfc124289df49f415ccc751f537961f8450",
  "targets": [
   "*"
  ],
- "notes": "מסך המורות נקי: ההסברים, קבצי העזר וביטול הייבוא האחרון בחלון מעוצב שנפתח בכפתור ייבוא מאקסל. אחרי ייבוא – כפתור ביטול בתוך ההודעה. שינויים אחרונים נפתחים בלחיצה",
+ "notes": "מסך החודש מחדש: ארבעה שלבים לפי סדר העבודה – שליחה, קליטה, בדיקה ותיקון, קובץ לשכר – עם כפתור ראשי אחד בכל שלב. שליחה בחלון מסודר, ו'מי הגישה' עם סינון. היסטוריה ואיפוס החודש בצד",
  "auto": true,
- "published": "2026-11-22 15:00",
+ "published": "2026-11-22 15:28",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
