@@ -1,19 +1,19 @@
 {
- "version": "0.2.21",
- "package": "halichot-0.2.21.zip",
+ "version": "0.2.22",
+ "package": "halichot-0.2.22.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.21/halichot-0.2.21.zip.part01",
-   "sha256": "109ab225485aab9d8027d59ae5aa8febf0996ee4fb31c6b41253259d6c4f1bc9"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.22/halichot-0.2.22.zip.part01",
+   "sha256": "de1a796d41fce2de00fb43436db4d4ec661eee4cc0527aa3f978f7bf6725467a"
   }
  ],
- "sha256": "109ab225485aab9d8027d59ae5aa8febf0996ee4fb31c6b41253259d6c4f1bc9",
+ "sha256": "de1a796d41fce2de00fb43436db4d4ec661eee4cc0527aa3f978f7bf6725467a",
  "targets": [
   "*"
  ],
- "notes": "מסך החודש: חיפוש מורה צמוד לסינון, וקוביות השלבים עם כפתורים קטנים של אייקון ומילה. מסך החודש מנצל את כל רוחב המסך",
+ "notes": "מסך הבדיקות: לשוניות לפי רמה, וכרטיס לכל סיבה עם תיקון אחד. מסך המורה: כותרת עם המצב שלה ולשוניות. שורת מיקום בראש כל מסך פנימי, כפתור חזרה עם אייקון שמחזיר למסך שממנו הגיעו, ואייקונים אחידים בכל הכלי",
  "auto": true,
- "published": "2026-11-22 18:42",
+ "published": "2026-11-22 22:02",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
