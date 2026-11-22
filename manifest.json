@@ -1,19 +1,19 @@
 {
- "version": "0.2.17",
- "package": "halichot-0.2.17.zip",
+ "version": "0.2.18",
+ "package": "halichot-0.2.18.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.17/halichot-0.2.17.zip.part01",
-   "sha256": "343c19552cbb29fd35441e64b199884d203a548062d999513685a06927ef957f"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.18/halichot-0.2.18.zip.part01",
+   "sha256": "202abbf184cc7bea4449a8d2e9369a54c320fc2e8fd6c3effd3178657e465f0f"
   }
  ],
- "sha256": "343c19552cbb29fd35441e64b199884d203a548062d999513685a06927ef957f",
+ "sha256": "202abbf184cc7bea4449a8d2e9369a54c320fc2e8fd6c3effd3178657e465f0f",
  "targets": [
   "*"
  ],
- "notes": "קליטת דיווחים: מסך מפוצל – רשימת מורות וחלונית עם הדיווח של המורה שנבחרה. חזרה מכל מסך מחזירה בדיוק למקום שממנו הגעת. קבצים בלי מייל בחלון על אותו מסך, כפתור סגירה אדום קבוע בכל החלונות, ומחיקת מורה מהטבלה",
+ "notes": "מסך מורות מפוצל: פרטים לקריאה בלבד ועריכה בלחיצה. יומן פעילות – מה נעשה, מתי ומי. חלון אישור מעוצב של הכלי, הודעות שנעלמות לבד, וכפתור חזרה אחיד בראש כל מסך. גרסה חדשה זמינה מופיעה בתחתית הסרגל. הסבר ברור כש-Outlook הקלאסי לא מחובר",
  "auto": true,
- "published": "2026-11-22 15:53",
+ "published": "2026-11-22 17:21",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
