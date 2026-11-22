@@ -1,19 +1,19 @@
 {
- "version": "0.2.14",
- "package": "halichot-0.2.14.zip",
+ "version": "0.2.15",
+ "package": "halichot-0.2.15.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.14/halichot-0.2.14.zip.part01",
-   "sha256": "bc3f1a451b8b2a88bc19426031998eb66f7b41babc0322ec8ca21a92bbdfb970"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.15/halichot-0.2.15.zip.part01",
+   "sha256": "bfb6839dc9940af9ef31c94c90955d730d2f59e78d35dae996af8479404b5125"
   }
  ],
- "sha256": "bc3f1a451b8b2a88bc19426031998eb66f7b41babc0322ec8ca21a92bbdfb970",
+ "sha256": "bfb6839dc9940af9ef31c94c90955d730d2f59e78d35dae996af8479404b5125",
  "targets": [
   "*"
  ],
- "notes": "עריכת מורה בחלון קופץ מעל הרשימה. כפתורי סגור ועדכון ומספר הגרסה בתחתית הסרגל, והודעת העדכון שם. ביטול הייבוא האחרון בראש טבלת המורות. באשף הייבוא: כפתורי האישור קבועים בתחתית, ושורות שלא ייובאו מקובצות לפי סיבה",
+ "notes": "מסך המורות נקי: ההסברים, קבצי העזר וביטול הייבוא האחרון בחלון מעוצב שנפתח בכפתור ייבוא מאקסל. אחרי ייבוא – כפתור ביטול בתוך ההודעה. שינויים אחרונים נפתחים בלחיצה",
  "auto": true,
- "published": "2026-11-22 14:37",
+ "published": "2026-11-22 15:00",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
