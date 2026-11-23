@@ -1,19 +1,19 @@
 {
- "version": "0.2.25",
- "package": "halichot-0.2.25.zip",
+ "version": "0.2.26",
+ "package": "halichot-0.2.26.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.25/halichot-0.2.25.zip.part01",
-   "sha256": "f4350ce40d77c996f29a0b06a3c3e82127cf111416efb3726de67a53e60b523f"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.26/halichot-0.2.26.zip.part01",
+   "sha256": "96cfcaf7b2144ceebaa8f0d48985571f6d6ddaf3d0e493b2a024a9bafc72779f"
   }
  ],
- "sha256": "f4350ce40d77c996f29a0b06a3c3e82127cf111416efb3726de67a53e60b523f",
+ "sha256": "96cfcaf7b2144ceebaa8f0d48985571f6d6ddaf3d0e493b2a024a9bafc72779f",
  "targets": [
   "*"
  ],
- "notes": "תיקון: ההודעה במסך קובץ השכר (כשהקובץ עוד לא נוצר) הוצגה נמעכת. תוקן גם חלון 'קבצים בלי מייל'",
+ "notes": "תקופת שכר מה-21 בחודש הקודם עד ה-20 (בלי 'דיווח מאוחר' לתאריכים בתקופה). נסיעה אוטומטית – אחת לכל יום שבו דווחו שיעורים. תוספת 740 לפי יחידות, למורות שמסומנות זכאיות. 'לתיקון' ישר לשורה בלי כיתה. תיקון: שמירת פרטי מורה בלי חלון 'לצאת מהאתר?'",
  "auto": true,
- "published": "2026-11-23 12:33",
+ "published": "2026-11-23 18:50",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
