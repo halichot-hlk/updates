@@ -1,19 +1,19 @@
 {
- "version": "0.2.23",
- "package": "halichot-0.2.23.zip",
+ "version": "0.2.24",
+ "package": "halichot-0.2.24.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.23/halichot-0.2.23.zip.part01",
-   "sha256": "e71a37a22c9060ce21cb81261b54e40e812427f8aeb9dc50661dee1935376109"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.24/halichot-0.2.24.zip.part01",
+   "sha256": "1f429efa43487363e0d12b9171f7867d7ba3b842827ceab367239651906907b1"
   }
  ],
- "sha256": "e71a37a22c9060ce21cb81261b54e40e812427f8aeb9dc50661dee1935376109",
+ "sha256": "1f429efa43487363e0d12b9171f7867d7ba3b842827ceab367239651906907b1",
  "targets": [
   "*"
  ],
- "notes": "רשימת המורות צרה עם אייקון סטטוס (טרם נשלח, נשלח, תזכורת, הגישה, ומספר בעיות). חלונית המורה רחבה: שם גדול, שורת סיכום אחת, והסבר לכל שורה בעייתית בתוך הטבלה",
+ "notes": "עריכת הדיווח בתוך חלונית המורה במסך החודש, בלי מסך נפרד. ברשימת המורות עמודה קבועה לכל שלב (נשלח, תזכורת, הגישה, בעיות). כפתורי השלבים תמיד בשורה אחת. שמירה רושמת רק שינויים אמיתיים",
  "auto": true,
- "published": "2026-11-22 22:26",
+ "published": "2026-11-23 11:36",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
