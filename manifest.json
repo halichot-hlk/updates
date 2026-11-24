@@ -1,19 +1,19 @@
 {
- "version": "0.2.26",
- "package": "halichot-0.2.26.zip",
+ "version": "0.2.27",
+ "package": "halichot-0.2.27.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.26/halichot-0.2.26.zip.part01",
-   "sha256": "96cfcaf7b2144ceebaa8f0d48985571f6d6ddaf3d0e493b2a024a9bafc72779f"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.27/halichot-0.2.27.zip.part01",
+   "sha256": "93a614f8a2cb457cb6a42259e29f04bab1e54e9d2ab7b41de515a05d8dadc6f5"
   }
  ],
- "sha256": "96cfcaf7b2144ceebaa8f0d48985571f6d6ddaf3d0e493b2a024a9bafc72779f",
+ "sha256": "93a614f8a2cb457cb6a42259e29f04bab1e54e9d2ab7b41de515a05d8dadc6f5",
  "targets": [
   "*"
  ],
- "notes": "תקופת שכר מה-21 בחודש הקודם עד ה-20 (בלי 'דיווח מאוחר' לתאריכים בתקופה). נסיעה אוטומטית – אחת לכל יום שבו דווחו שיעורים. תוספת 740 לפי יחידות, למורות שמסומנות זכאיות. 'לתיקון' ישר לשורה בלי כיתה. תיקון: שמירת פרטי מורה בלי חלון 'לצאת מהאתר?'",
+ "notes": "כל שורה בחודש שבו היה השיעור. מורה בתקן – רק נסיעות ובטלה. עבו״מ – שעות קבועות לכל תאריך. בטלה אוטומטית למורות זכאיות. נסיעה ובטלה לפי סעיף. היעדרות – 126 שלילי. הערות המרכזת בקובץ השכר. כיתה יג+יד – הסעיף של יג. מגמה מעמודת 'מגמה' בדוח, ושיוך סעיף ממסך השגיאות. התראה קבועה ל-740. חיפוש צמוד בטבלת המורות",
  "auto": true,
- "published": "2026-11-23 18:50",
+ "published": "2026-11-24 12:02",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
