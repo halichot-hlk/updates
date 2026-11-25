@@ -1,19 +1,19 @@
 {
- "version": "0.2.27",
- "package": "halichot-0.2.27.zip",
+ "version": "0.2.28",
+ "package": "halichot-0.2.28.zip",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.27/halichot-0.2.27.zip.part01",
-   "sha256": "93a614f8a2cb457cb6a42259e29f04bab1e54e9d2ab7b41de515a05d8dadc6f5"
+   "url": "https://raw.githubusercontent.com/halichot-hlk/updates/main/releases/0.2.28/halichot-0.2.28.zip.part01",
+   "sha256": "ae84e676ed6f271989ee8f36f16711652b39e29b3f1744e6df9fe2b699408c80"
   }
  ],
- "sha256": "93a614f8a2cb457cb6a42259e29f04bab1e54e9d2ab7b41de515a05d8dadc6f5",
+ "sha256": "ae84e676ed6f271989ee8f36f16711652b39e29b3f1744e6df9fe2b699408c80",
  "targets": [
   "*"
  ],
- "notes": "כל שורה בחודש שבו היה השיעור. מורה בתקן – רק נסיעות ובטלה. עבו״מ – שעות קבועות לכל תאריך. בטלה אוטומטית למורות זכאיות. נסיעה ובטלה לפי סעיף. היעדרות – 126 שלילי. הערות המרכזת בקובץ השכר. כיתה יג+יד – הסעיף של יג. מגמה מעמודת 'מגמה' בדוח, ושיוך סעיף ממסך השגיאות. התראה קבועה ל-740. חיפוש צמוד בטבלת המורות",
+ "notes": "טופס מורה: שמירה וביטול בראש הטופס, במקום כפתור העריכה. השדה 'מגמות' הוסר מהטופס (המגמות נשמרות כמו שהן)",
  "auto": true,
- "published": "2026-11-24 12:02",
+ "published": "2026-11-25 10:22",
  "requirements_sha256": "42c7939844d2ba53dec900844a9c3a4e614032e1fb79e931c44b0d6dbe0babcb",
  "wheels": false
 }
